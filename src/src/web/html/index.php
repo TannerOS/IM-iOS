@@ -5,14 +5,16 @@
     <head>
 
       <meta name="apple-mobile-web-capable" content="yes">
-
       <meta name="viewport" content="width=device-width">
+      <link rel="stylesheet" href="css/style.css" type="text/css">
 
     </head>
 
     <body>
 
-      <strong>IM-iOS is still under development. Feel free to help out on <a href="https://github.com/ImagicalMine/IM-iOS/">GitHub</a></strong>
+      <header>
+        <h1>ImagicalMine</h1>
+      </header>
 
     </body>
 
