@@ -6,7 +6,7 @@
 
       <meta name="apple-mobile-web-capable" content="yes">
       <meta name="viewport" content="width=device-width">
-      <link rel="stylesheet" href="css/im.css" type="text/css">
+      <link rel="stylesheet" href="../css/im.css" type="text/css">
 
     </head>
 
