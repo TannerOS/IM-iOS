@@ -18,10 +18,9 @@
       
       <nav>
         <div class="navbar">
-          <a href="#">Home</a>
-          <a href="#">Servers</a>
-          <a href="ranks.html">Ranks</a>
-          <a href="#">Staff</a>
+          <a href="#">Page1</a>
+          <a href="#">Page2</a>
+          <a href="#">Page3</a>
         </div>
       </nav>
 
